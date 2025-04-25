@@ -1,0 +1,12 @@
+[project]
+name = "agents-exp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "huggingface-hub>=0.30.2",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.6",
+    "smolagents>=1.14.0",
+]

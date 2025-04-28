@@ -1,12 +1,19 @@
 [project]
-name = "agents-exp"
+name = "agents-course"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "huggingface-hub>=0.30.2",
+    "arize-phoenix>=8.26.3",
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.6",
-    "smolagents>=1.14.0",
+    "langfuse>=2.60.3",
+    "litellm>=1.66.3,<1.67.4",
+    "openinference-instrumentation-smolagents>=0.1.10",
+    "opentelemetry-exporter-otlp>=1.32.1",
+    "opentelemetry-sdk>=1.32.1",
+    "python-dotenv>=1.1.0",
+    "smolagents[litellm,telemetry]>=1.14.0",
 ]
+

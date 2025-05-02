@@ -3,15 +3,21 @@ name = "agents-course"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "arize-phoenix>=8.26.3",
+    "crewai>=0.117.1",
+    "crewai-tools>=0.43.0",
     "geopandas>=1.0.1",
+    "google-auth>=2.39.0",
+    "google-cloud-aiplatform>=1.90.0",
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.6",
     "kaleido==0.2.1",
+    "langchain-community>=0.3.23",
     "langfuse>=2.60.3",
     "litellm>=1.66.3,<1.67.4",
+    "openinference-instrumentation-crewai>=0.1.9",
     "openinference-instrumentation-smolagents>=0.1.10",
     "opentelemetry-exporter-otlp>=1.32.1",
     "opentelemetry-sdk>=1.32.1",

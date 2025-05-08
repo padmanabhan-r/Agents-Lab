@@ -17,6 +17,7 @@ dependencies = [
     "langchain-community>=0.3.23",
     "langfuse>=2.60.3",
     "litellm>=1.66.3,<1.67.4",
+    "llama-index>=0.12.34",
     "openinference-instrumentation-crewai>=0.1.9",
     "openinference-instrumentation-smolagents>=0.1.10",
     "opentelemetry-exporter-otlp>=1.32.1",

@@ -8,7 +8,7 @@ resolution-markers = [
 ]
 
 [[package]]
-name = "agents-course"
+name = "agents-lab"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

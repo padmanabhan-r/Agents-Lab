@@ -1,6 +1,8 @@
 {
-  "name": "Moscone Center",
-  "address": "747 Howard St, San Francisco, CA 94103",
-  "capacity": 10000,
-  "booking_status": "unknown"
+  "name": "Regus - Altius Building, Olympia Technology Park",
+  "address": "Olympia Technology Park, Chennai, Tamil Nadu, 600032, IND",
+  "capacity": 0,
+  "booking_status": "Available for booking. Contact +91 22 6786 9561 to check availability and book.",
+  "best_suited_for": "Conferences, client meetings, training sessions, interviews, collaborative work",
+  "indoor_or_outdoor": "Indoor"
 }

@@ -29,6 +29,7 @@ A collection of advanced multi-agent AI notebooks and experiments using CrewAI a
 
 - Open any notebook in `crewAI/` or `smolagents/` with Jupyter or VS Code.
 - Follow the instructions in each notebook to run agent workflows.
+- Enjoy
 
 ## Dependencies
 

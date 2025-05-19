@@ -29,10 +29,6 @@ A collection of advanced multi-agent AI notebooks and experiments using CrewAI a
 
 - Open any notebook in `crewAI/` or `smolagents/` with Jupyter or VS Code.
 - Follow the instructions in each notebook to run agent workflows.
-- Example notebooks:
-  - `crewAI/customer_support.ipynb`: Multi-agent customer support automation.
-  - `smolagents/multiagent_notebook.ipynb`: Tool-using agents for data analysis and visualization.
-  - `smolagents/vertex_ai_agents.ipynb`: Vertex AI agent integration.
 
 ## Dependencies
 

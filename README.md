@@ -16,7 +16,7 @@ A collection of advanced multi-agent AI notebooks and experiments using CrewAI a
 - **smolagents/**: Notebooks using SmolAgents for code-based, tool-using, and web-enabled agents (e.g., Gemini, Vertex AI, multi-agent orchestration, retrieval).
 - **llamaindex/**
 - **Langgraph**
-- agno
+- **agno/**
 - **pyproject.toml**: Project dependencies and metadata.
 
 ## Key Features
